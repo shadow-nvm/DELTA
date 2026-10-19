@@ -1,0 +1,9 @@
+build/
+__pycache__/
+*.pyc
+*.log
+*.ppm
+
+# Local toolchain payloads (recreate with scripts/bootstrap_tools.py)
+tools/*
+!tools/README.md
